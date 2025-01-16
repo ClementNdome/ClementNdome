@@ -28,7 +28,7 @@ With a fervor for coding and a talent for tackling challenges, I engineer innova
 ---
 ## 🌐 Find me around the web
 
-- [Personal Website](clement)
+- [Personal Website](https://github.com/ClementNdome/ClementNdome.github.io)
 
 - [LinkedIn](www.linkedin.com/in/clement-ndome-9a9ivakawm2)
 
