@@ -6,9 +6,12 @@ With a fervor for coding and a talent for tackling challenges, I engineer innova
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python,JavaScript, Dart, Kotlin, R, PHP
-- **Frameworks**: Django, Flask, Flutter, React, Express
-- **Others**: Machine Learning, GIS, MongoDB, PostgreSQL
+- **Languages**: Python,JavaScript, Dart, Kotlin, R
+- **Frameworks**: Django, Flask, Flutter, React, 
+- **Databases**: MongoDB, PostgreSQL, Firebase
+- **GIS & RS**: ARCGIS PRO, QGIS, ENVI, ERDAS
+- **ML&AI**: TensorFlow, PyTorch, Scikit Learn
+  
 
 ---
 
@@ -21,13 +24,12 @@ With a fervor for coding and a talent for tackling challenges, I engineer innova
 **[Monitoring System](https://github.com/ClementNdome/Monitoring_System)**: A project focused on monitoring and analyzing geospatial data to support decision-making processes
 ![Screenshot (11)](https://github.com/user-attachments/assets/09c86bbd-09fb-4d44-90b2-f4c217f5d822)
 
-.
+
 
 - **[Spatial Analysis](https://github.com/ClementNdome/flask-app-deploy)**: A project dedicated to performing various spatial analysis techniques to derive insights from geospatial datasets.![Screenshot (99)](https://github.com/user-attachments/assets/1b13c532-7e51-46e8-957a-b7bfaea1c886)
 
 
-- 
-- 
+
 
 ---
 ## 👨‍💻 GitHub Stats
