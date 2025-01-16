@@ -29,7 +29,7 @@ With a fervor for coding and a talent for tackling challenges, I engineer innova
 ## 🌐 Find me around the web
 
 - [Personal Website](clement)
-- [Twitter](clement)
-- [LinkedIn](clement-ndome)
+
+- [LinkedIn](www.linkedin.com/in/clement-ndome-9a9ivakawm2)
 
 Feel free to explore my repositories and star 🌟 your favorites. Contributions and discussions are always welcome. Happy coding! 💻
