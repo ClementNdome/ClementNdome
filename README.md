@@ -1,6 +1,6 @@
 # Hey there! I'm Clement! 👋
 
-With a fervor for coding and a talent for tackling challenges, I engineer innovative geospatial solutions that make an impact..
+With a fervor for coding and a talent for tackling challenges, I engineer innovative geospatial solutions that make an impact.
 
 ---
 
@@ -26,7 +26,8 @@ With a fervor for coding and a talent for tackling challenges, I engineer innova
 
 
 
-- **[Spatial Analysis](https://github.com/ClementNdome/flask-app-deploy)**: A project dedicated to performing various spatial analysis techniques to derive insights from geospatial datasets.![Screenshot (99)](https://github.com/user-attachments/assets/1b13c532-7e51-46e8-957a-b7bfaea1c886)
+- **[Spatial Analysis](https://github.com/ClementNdome/flask-app-deploy)**: A project dedicated to performing various spatial analysis techniques to derive insights from geospatial datasets. find the lik at https://webgis-schools.onrender.com/
+ ![Screenshot (99)](https://github.com/user-attachments/assets/1b13c532-7e51-46e8-957a-b7bfaea1c886)
 
 
 
