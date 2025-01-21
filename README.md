@@ -41,6 +41,6 @@ With a fervor for coding and a talent for tackling challenges, I engineer innova
 
 
 
-- [LinkedIn @clement ndome](www.linkedin.com/in/clement-ndome-9a9ivakawm2)
+- [LinkedIn @clement ndome](https://www.linkedin.com/in/clement-ndome-9a9ivakawm2/)
 
 Feel free to explore my repositories and star 🌟 your favorites. Contributions and discussions are always welcome. Happy coding! 💻
