@@ -1,12 +1,8 @@
-# Hey there! I'm Clement Ndome! 👋
+# Hey there! I'm Clement! 👋
 
-Geospatial Developer | AI/ML Enthusiast | Problem Solver
-
-With a passion for coding and a talent for tackling complex challenges, I engineer innovative geospatial solutions that create real-world impact.
+With a fervor for coding and a talent for tackling challenges, I engineer innovative geospatial solutions that make an impact.
 
 ---
-
-## 🛠️ Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,41 +35,31 @@ With a passion for coding and a talent for tackling complex challenges, I engine
 
 ---
 
-## 🚀 Featured Projects
-
-### [Geospatial Monitoring System](https://github.com/ClementNdome/Monitoring_System)
-A comprehensive system for monitoring and analyzing geospatial data to support decision-making processes.
-
-![Monitoring System Preview](https://github.com/ClementNdome/Monitoring_System/raw/main/screenshots/dashboard.png)
-
-### [WebGIS for School Analysis](https://webgis-schools.onrender.com/)
-Interactive web application for spatial analysis of school distributions and demographics.
-
-![WebGIS Screenshot](https://github.com/ClementNdome/flask-app-deploy/raw/main/static/images/screenshot.png)
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Highlighted Repositories
 
-<!-- Real-time GitHub stats with more metrics -->
-[![Clement's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementNdome&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)](https://github.com/ClementNdome)
+**[Monitoring System](https://github.com/ClementNdome/Monitoring_System)**: A project focused on monitoring and analyzing geospatial data to support decision-making processes
+![Screenshot (11)](https://github.com/user-attachments/assets/09c86bbd-09fb-4d44-90b2-f4c217f5d822)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementNdome&layout=compact&theme=radical&hide_border=true)](https://github.com/ClementNdome)
 
-<!-- GitHub streak stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ClementNdome&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<!-- GitHub contribution graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ClementNdome&theme=redical&hide_border=true&area=true)
+- **[Spatial Analysis](https://github.com/ClementNdome/flask-app-deploy)**: A project dedicated to performing various spatial analysis techniques to derive insights from geospatial datasets. find the limk at https://webgis-schools.onrender.com/
+ ![Screenshot (99)](https://github.com/user-attachments/assets/1b13c532-7e51-46e8-957a-b7bfaea1c886)
 
----
 
-## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gis-member-a3b968354/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
+## 👨‍💻 GitHub Stats
 
-⭐️ From [ClementNdome](https://github.com/ClementNdome)
+![Clement's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementNdome&show_icons=true&theme=radical)
+---
+## 🌐 Find me around the web
+
+
+
+- [LinkedIn @clement ndome](https://www.linkedin.com/in/clement-ndome-9a9ivakawm2/)
+
+Feel free to explore my repositories and star 🌟 your favorites. Contributions and discussions are always welcome. Happy coding! 💻
