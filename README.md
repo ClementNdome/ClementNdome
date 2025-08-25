@@ -1,8 +1,8 @@
 # Hey there! I'm Clement Ndome! 👋
 
-Geospatial Developer | AI/ML Enthusiast | Problem Solver
+Geospatial Software  Developer | AI/ML Enthusiast | Problem Solver
 
-With a passion for coding and a talent for tackling complex challenges, I engineer innovative geospatial solutions that create real-world impact.
+With a passion for coding and a talent for tackling complex challenges, I engineer innovative solutions across geospatial domain that create real-world impact.
 
 ---
 
@@ -12,7 +12,6 @@ With a passion for coding and a talent for tackling complex challenges, I engine
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frameworks & Libraries
@@ -32,12 +31,10 @@ With a passion for coding and a talent for tackling complex challenges, I engine
 ![ENVI](https://img.shields.io/badge/ENVI-FF6600?style=for-the-badge)
 ![ERDAS](https://img.shields.io/badge/ERDAS-00AEEF?style=for-the-badge)
 
-### Machine Learning
+### Machine Learning/AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
 
 
 ---
@@ -55,14 +52,10 @@ With a passion for coding and a talent for tackling complex challenges, I engine
 
 
 ---
-## 👨‍💻 GitHub Stats
-
-![Clement's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementNdome&show_icons=true&theme=radical)
----
 ## 🌐 Find me around the web
 
 
 
-- [LinkedIn @clement ndome](https://www.linkedin.com/in/gis-member-a3b968354/)
+- [LinkedIn @clement ndome](https://www.linkedin.com/in/clement-ndome-a3b968354/)
 
 Feel free to explore my repositories and star 🌟 your favorites. Contributions and discussions are always welcome. Happy coding! 💻
