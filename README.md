@@ -75,17 +75,7 @@ With a passion for coding and a talent for tackling complex challenges, I engine
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
----
 
-## 📂 Highlighted Repositories
-
-**[Monitoring System](https://github.com/ClementNdome/Monitoring_System)**: A project focused on monitoring and analyzing geospatial data to support decision-making processes
-![Screenshot (11)](https://github.com/user-attachments/assets/09c86bbd-09fb-4d44-90b2-f4c217f5d822)
-
-**[Spatial Analysis](https://github.com/ClementNdome/flask-app-deploy)**: A project dedicated to performing various spatial analysis techniques to derive insights from geospatial datasets. Find the link at https://webgis-schools.onrender.com/
-![Screenshot (99)](https://github.com/user-attachments/assets/1b13c532-7e51-46e8-957a-b7bfaea1c886)
-
----
 
 ## 🌐 Find me around the web
 - [LinkedIn @clement ndome](https://www.linkedin.com/in/clement-ndome-a3b968354/)
